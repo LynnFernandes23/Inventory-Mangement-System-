@@ -1,2 +1,2 @@
-# Inventory-Mangement-System-
-This project showcases my proficiency in web development using CSS, JavaScript, SQL, and PHP to create a robust Inventory Management System. Leveraging CSS for responsive design and intuitive user interfaces, JavaScript for dynamic client-side interactions, and PHP with SQL for server-side functionality and database management, this system efficiently tracks inventory levels, manages orders, and generates real-time reports. Designed for scalability and usability, it exemplifies my skills in front-end and back-end development, offering a practical demonstration of my ability to integrate multiple technologies into a cohesive web application."
+# inventory_management_system
+> Any help related to php or django or vuejs or nuxtjs or angular or react contact me via whatsapp +919535688928 or gmail puneethreddy951@gmail.com
